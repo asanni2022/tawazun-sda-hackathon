@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1>Welcome, <c:out value = "${user.userName}"></c:out></h1><a href="/home">Home</a> <a href="/logout">Log out</a>
-			<h1>Our Products :</h1>
+			<h1>Our Products CICD EB GITHUB:</h1>
     <table class="table">
         <tr>
             <th>Name</th>
